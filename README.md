@@ -20,7 +20,7 @@ This is my capstone project for the Google Data Analytics Certificate, analyzing
 
 ## Files
 - `bellabeat_analysis.Rmd`: R Markdown source with code, visualizations, and narrative.
-- `Bellabeat_REPORT.pdf`: Full report with tables (e.g., pivot table) and figures (e.g., activity distribution, hourly trends).
+- `Bellabeat_report.pdf`: Full report with tables (e.g., pivot table) and figures (e.g., activity distribution, hourly trends).
 
 [View the Full Report (PDF)](Bellabeat_report.pdf)
 
