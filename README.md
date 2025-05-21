@@ -22,7 +22,7 @@ This is my capstone project for the Google Data Analytics Certificate, analyzing
 - `bellabeat_analysis.Rmd`: R Markdown source with code, visualizations, and narrative.
 - `bellabeat_analysis.pdf`: Full report with tables (e.g., pivot table) and figures (e.g., activity distribution, hourly trends).
 
-[View the Full Report (PDF)](bellabeat_analysis.pdf)
+[View the Full Report (PDF)](Bellabeat_report.pdf)
 
 ## Key Visualizations
 - **Figure 1**: Pie chart of user activity levels (Lightly, Fairly, Very Active) based on calories burned.
