@@ -2,10 +2,10 @@
 **Google Data Analytics Capstone Project**  
 **Michalis Loizos, May 2025**
 
-This is my capstone project for the Google Data Analytics Certificate, analyzing Bellabeat health tech data (Fitbit usage trends from 34 users) to deliver wellness marketing insights. Built with Google Sheets (data cleaning, pivot tables), SQL (data filtering), and R (tidyverse, ggplot2 for visualizations), it showcases my skills in data wrangling, visualization, and business recommendations. Complements my independent [Hotel Booking Analysis](insert_hotel_booking_repo_link) for a diverse portfolio targeting data analyst roles.
+This is my capstone project for the Google Data Analytics Certificate, analyzing Bellabeat health tech data (Fitbit usage trends from 34 users, link to acess dataset: https://www.kaggle.com/datasets/andrewgryson/bellabeat-case-study-dataset) to deliver wellness marketing insights. Built with Google Sheets (data cleaning, pivot tables), SQL (data filtering), and R (tidyverse, ggplot2 for visualizations), it showcases my skills in data wrangling, visualization, and business recommendations. ) for a diverse portfolio targeting data analyst roles.
 
 ## Project Overview
-- **Dataset**: Fitbit user data from 34 users, including daily activity (steps, calories), hourly trends (calories, steps, intensities), spanning 30 days (not included due to course restrictions).
+- **Dataset**: Fitbit user data from 34 users, including daily activity (steps, calories), hourly trends (calories, steps, intensities), spanning 30 days.
 - **Tools**: Google Sheets, SQL, R (tidyverse, ggplot2, kableExtra).
 - **Analysis**:
   - Cleaned data (e.g., converted UTC times to 24-hour format).
@@ -32,11 +32,11 @@ This is my capstone project for the Google Data Analytics Certificate, analyzing
 
 
 ## How to Run
-1. Clone this repo: `git clone https://github.com/your-username/bellabeat-analysis.git`
+1. Clone this repo: https://github.com/michloiz/Bellabeat_Project.git
 2. Install dependencies in R: `install.packages(c("tidyverse", "ggplot2", "kableExtra", "RColorBrewer"))`
 3. Open `bellabeat_analysis.Rmd` in RStudio and knit to PDF (requires the dataset, not included).
 
-*Dataset not included due to course restrictions. Contact me for details.*
+*Dataset not included here, link available in description.*
 
 ## Contact
 - LinkedIn: [Michalis Loizos](https://www.linkedin.com/in/michalis-loizos/)
